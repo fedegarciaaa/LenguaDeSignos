@@ -1,6 +1,6 @@
 {
     "version": "1.0.1",
     "changelog": "https://github.com/fedegarciaaa/LenguaDeSignos/blob/main/CHANGELOG.md",
-    "forceUpdate": false,
+    "forceUpdate": true,
     "releaseDate": "2025-03-26"
   }
